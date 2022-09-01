@@ -1,4 +1,4 @@
-## Machine-Learning-Algorithm-on-Kaggle--Bankruptcy
+### Machine-Learning-Algorithm-on-Kaggle--Bankruptcy
 Machine-Learning-Algorithm-on-Kaggle- Bankruptcy dataset
 
 
@@ -6,7 +6,7 @@ Bankruptcy dataset is a dataset which contains the financial information and the
 #### This is a classification problem. 
 
 #### Labels / dependent variable = column "D"
-#### Variable D is the Bankruptcy/Non Bankruptcy flag, where 1 stands for Bankruptcy while 0 stands for Non Bankrupt companies.
+#### Variable D is the Bankruptcy/Non Bankruptcy flag, where *1* stands for *Bankruptcy* while *0* stands for *Non Bankrupt* companies.
 
 
 
